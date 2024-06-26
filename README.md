@@ -1,2 +1,2 @@
 # Data-Engineering
-This repository contains all the important topics required to prepare for Data Engineering Roles.
+This repository contains all the topics that I am using to prepare for Data Engineering Roles.
